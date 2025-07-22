@@ -20,7 +20,7 @@ Each table includes primary and foreign key constraints with structured relation
 
 ##  How to Use
 
-1. Open the `university.sql` file in Oracle SQL Developer or any compatible IDE.
+1. Open the `university system sql.sql` file in Oracle SQL Developer or any compatible IDE.
 2. Run the script to create all tables and constraints.
 3. You can insert sample data and run queries to test the schema.
 
